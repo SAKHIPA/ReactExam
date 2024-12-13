@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9JXTK0tlgi4Nctooy+D1PuT1XXfMfQigiHpMEaLWwTM=",
+  "Source": "BookMgnt",
+  "BasePath": "_content/BookMgnt",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

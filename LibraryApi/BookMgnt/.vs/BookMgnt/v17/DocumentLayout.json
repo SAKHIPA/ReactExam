@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\100834\\Desktop\\Exam\\LibraryApi\\BookMgnt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AFBECA-2537-4456-8BF8-2E9C7AC32459}|BookMgnt\\BookMgnt.csproj|c:\\users\\100834\\desktop\\exam\\libraryapi\\bookmgnt\\bookmgnt\\controllers\\cntegorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8AFBECA-2537-4456-8BF8-2E9C7AC32459}|BookMgnt\\BookMgnt.csproj|solutionrelative:bookmgnt\\controllers\\cntegorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AFBECA-2537-4456-8BF8-2E9C7AC32459}|BookMgnt\\BookMgnt.csproj|c:\\users\\100834\\desktop\\exam\\libraryapi\\bookmgnt\\bookmgnt\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8AFBECA-2537-4456-8BF8-2E9C7AC32459}|BookMgnt\\BookMgnt.csproj|solutionrelative:bookmgnt\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AFBECA-2537-4456-8BF8-2E9C7AC32459}|BookMgnt\\BookMgnt.csproj|c:\\users\\100834\\desktop\\exam\\libraryapi\\bookmgnt\\bookmgnt\\controllers\\autherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8AFBECA-2537-4456-8BF8-2E9C7AC32459}|BookMgnt\\BookMgnt.csproj|solutionrelative:bookmgnt\\controllers\\autherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_100834_DOCUMENTS_LIBRARYMGNT.MDF/True/SqlTable/dbo.Authers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AFBECA-2537-4456-8BF8-2E9C7AC32459}|BookMgnt\\BookMgnt.csproj|c:\\users\\100834\\desktop\\exam\\libraryapi\\bookmgnt\\bookmgnt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8AFBECA-2537-4456-8BF8-2E9C7AC32459}|BookMgnt\\BookMgnt.csproj|solutionrelative:bookmgnt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_100834_DOCUMENTS_LIBRARYMGNT.MDF/True/SqlTable/dbo.Categorys.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AFBECA-2537-4456-8BF8-2E9C7AC32459}|BookMgnt\\BookMgnt.csproj|c:\\users\\100834\\desktop\\exam\\libraryapi\\bookmgnt\\bookmgnt\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8AFBECA-2537-4456-8BF8-2E9C7AC32459}|BookMgnt\\BookMgnt.csproj|solutionrelative:bookmgnt\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AFBECA-2537-4456-8BF8-2E9C7AC32459}|BookMgnt\\BookMgnt.csproj|c:\\users\\100834\\desktop\\exam\\libraryapi\\bookmgnt\\bookmgnt\\model\\auther.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8AFBECA-2537-4456-8BF8-2E9C7AC32459}|BookMgnt\\BookMgnt.csproj|solutionrelative:bookmgnt\\model\\auther.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AFBECA-2537-4456-8BF8-2E9C7AC32459}|BookMgnt\\BookMgnt.csproj|c:\\users\\100834\\desktop\\exam\\libraryapi\\bookmgnt\\bookmgnt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8AFBECA-2537-4456-8BF8-2E9C7AC32459}|BookMgnt\\BookMgnt.csproj|solutionrelative:bookmgnt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AFBECA-2537-4456-8BF8-2E9C7AC32459}|BookMgnt\\BookMgnt.csproj|c:\\users\\100834\\desktop\\exam\\libraryapi\\bookmgnt\\bookmgnt\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8AFBECA-2537-4456-8BF8-2E9C7AC32459}|BookMgnt\\BookMgnt.csproj|solutionrelative:bookmgnt\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AFBECA-2537-4456-8BF8-2E9C7AC32459}|BookMgnt\\BookMgnt.csproj|c:\\users\\100834\\desktop\\exam\\libraryapi\\bookmgnt\\bookmgnt\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8AFBECA-2537-4456-8BF8-2E9C7AC32459}|BookMgnt\\BookMgnt.csproj|solutionrelative:bookmgnt\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AFBECA-2537-4456-8BF8-2E9C7AC32459}|BookMgnt\\BookMgnt.csproj|c:\\users\\100834\\desktop\\exam\\libraryapi\\bookmgnt\\bookmgnt\\bookmgnt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8AFBECA-2537-4456-8BF8-2E9C7AC32459}|BookMgnt\\BookMgnt.csproj|solutionrelative:bookmgnt\\bookmgnt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthersController.cs",
+              "DocumentMoniker": "C:\\Users\\100834\\Desktop\\Exam\\LibraryApi\\BookMgnt\\BookMgnt\\Controllers\\AuthersController.cs",
+              "RelativeDocumentMoniker": "BookMgnt\\Controllers\\AuthersController.cs",
+              "ToolTip": "C:\\Users\\100834\\Desktop\\Exam\\LibraryApi\\BookMgnt\\BookMgnt\\Controllers\\AuthersController.cs",
+              "RelativeToolTip": "BookMgnt\\Controllers\\AuthersController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:19:42.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Auther.cs",
+              "DocumentMoniker": "C:\\Users\\100834\\Desktop\\Exam\\LibraryApi\\BookMgnt\\BookMgnt\\Model\\Auther.cs",
+              "RelativeDocumentMoniker": "BookMgnt\\Model\\Auther.cs",
+              "ToolTip": "C:\\Users\\100834\\Desktop\\Exam\\LibraryApi\\BookMgnt\\BookMgnt\\Model\\Auther.cs",
+              "RelativeToolTip": "BookMgnt\\Model\\Auther.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:08:30.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\100834\\Desktop\\Exam\\LibraryApi\\BookMgnt\\BookMgnt\\Program.cs",
+              "RelativeDocumentMoniker": "BookMgnt\\Program.cs",
+              "ToolTip": "C:\\Users\\100834\\Desktop\\Exam\\LibraryApi\\BookMgnt\\BookMgnt\\Program.cs",
+              "RelativeToolTip": "BookMgnt\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:14:52.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CntegoryController.cs",
+              "DocumentMoniker": "C:\\Users\\100834\\Desktop\\Exam\\LibraryApi\\BookMgnt\\BookMgnt\\Controllers\\CntegoryController.cs",
+              "RelativeDocumentMoniker": "BookMgnt\\Controllers\\CntegoryController.cs",
+              "ToolTip": "C:\\Users\\100834\\Desktop\\Exam\\LibraryApi\\BookMgnt\\BookMgnt\\Controllers\\CntegoryController.cs",
+              "RelativeToolTip": "BookMgnt\\Controllers\\CntegoryController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wCUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:42:09.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\100834\\Desktop\\Exam\\LibraryApi\\BookMgnt\\BookMgnt\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BookMgnt\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\100834\\Desktop\\Exam\\LibraryApi\\BookMgnt\\BookMgnt\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BookMgnt\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:14:30.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Authers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_100834_DOCUMENTS_LIBRARYMGNT.MDF/True/SqlTable/dbo.Authers.sql",
+              "ToolTip": "dbo.Authers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-13T06:33:22.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Categorys [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_100834_DOCUMENTS_LIBRARYMGNT.MDF/True/SqlTable/dbo.Categorys.sql",
+              "ToolTip": "dbo.Categorys [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-13T06:50:56.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\100834\\Desktop\\Exam\\LibraryApi\\BookMgnt\\BookMgnt\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BookMgnt\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\100834\\Desktop\\Exam\\LibraryApi\\BookMgnt\\BookMgnt\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BookMgnt\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:06:40.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\100834\\Desktop\\Exam\\LibraryApi\\BookMgnt\\BookMgnt\\appsettings.json",
+              "RelativeDocumentMoniker": "BookMgnt\\appsettings.json",
+              "ToolTip": "C:\\Users\\100834\\Desktop\\Exam\\LibraryApi\\BookMgnt\\BookMgnt\\appsettings.json",
+              "RelativeToolTip": "BookMgnt\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T06:13:45.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\100834\\Desktop\\Exam\\LibraryApi\\BookMgnt\\BookMgnt\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "BookMgnt\\Model\\Book.cs",
+              "ToolTip": "C:\\Users\\100834\\Desktop\\Exam\\LibraryApi\\BookMgnt\\BookMgnt\\Model\\Book.cs",
+              "RelativeToolTip": "BookMgnt\\Model\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:10:29.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\100834\\Desktop\\Exam\\LibraryApi\\BookMgnt\\BookMgnt\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "BookMgnt\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\100834\\Desktop\\Exam\\LibraryApi\\BookMgnt\\BookMgnt\\Model\\Category.cs",
+              "RelativeToolTip": "BookMgnt\\Model\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:09:45.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookMgnt",
+              "DocumentMoniker": "C:\\Users\\100834\\Desktop\\Exam\\LibraryApi\\BookMgnt\\BookMgnt\\BookMgnt.csproj",
+              "RelativeDocumentMoniker": "BookMgnt\\BookMgnt.csproj",
+              "ToolTip": "C:\\Users\\100834\\Desktop\\Exam\\LibraryApi\\BookMgnt\\BookMgnt\\BookMgnt.csproj",
+              "RelativeToolTip": "BookMgnt\\BookMgnt.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-13T06:07:52.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
